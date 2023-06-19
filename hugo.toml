@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = '最近あったドジ話~LeanBase１期生編～'
+theme = "PaperMod"
